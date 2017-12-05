@@ -1,6 +1,6 @@
 # Gramática en FNC y algoritmo CYK #
 
-___
+
 
 ***Diagrama***
 
