@@ -1,0 +1,16 @@
+﻿EJEMPLO TOMADO DEL TEXTO "Estudio Previo Sesión 21 (Algoritmos de decisión para GIC)"
+
+GRAMATICA:
+
+S : BA | AC
+A : CC | b
+B : AB | a
+
+C : BA | a
+
+
+CADENAS DE PRUEBA:
+
+bbab ----> Si la genera
+baaba -----> Si la genera
+aaba -----> Si la genera (en el libro se dice que no la genera, es un error)

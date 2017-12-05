@@ -1,0 +1,9 @@
+S : SBS | BC | Bb
+A : AA | aA
+B : aBCa | b
+
+C : aC | ACC | abb
+
+D : aAB | ab
+E : aS | bAA
+F : aDb | aF

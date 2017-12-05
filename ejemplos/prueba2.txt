@@ -1,0 +1,6 @@
+S : AB | aBC | SBS
+A : aA | C
+B : bbB | b
+
+C : cC | &
+

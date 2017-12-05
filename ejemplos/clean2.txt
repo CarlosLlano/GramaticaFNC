@@ -1,0 +1,5 @@
+S : aXbX
+
+X : aY | bY | &
+
+Y : X | c
